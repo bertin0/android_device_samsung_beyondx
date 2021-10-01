@@ -32,7 +32,6 @@ TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 3040
 TARGET_SCREEN_WIDTH := 1440
 TARGET_BOOT_ANIMATION_RES := 1440
-EXTRA_FOD_ANIMATIONS := true
 
 ## Inherit some common Lineage stuff
 $(call inherit-product, vendor/dot/config/common.mk)
